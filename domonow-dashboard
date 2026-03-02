@@ -1,0 +1,10 @@
+domonow-dashboard/
+  server/
+    server.js
+  src/
+    App.jsx
+    main.jsx
+  public/
+    index.html
+  package.json
+  vite.config.js
